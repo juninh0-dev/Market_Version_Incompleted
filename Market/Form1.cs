@@ -49,7 +49,7 @@ namespace Market
             lblTotal.Text = preco_total.ToString("C");
 
             MessageBox.Show("Item inserido com sucesso!", ": D", 
-                MessageBoxButtons.OK, MessageBoxIcon.Exclamation);
+                MessageBoxButtons.OK, MessageBoxIcon.Information);
         }
 
         
@@ -62,7 +62,7 @@ namespace Market
 
                 MessageBox.Show("Item removido da compra", "Remoção",
                                            MessageBoxButtons.OK, MessageBoxIcon.Exclamation);
-                lblTotal.Text = dgvItem.RowCount.ToString();
+                lblTotal.Text = dgvItem.RowCount.ToString("C");
                 calcular();
             }
         }
@@ -83,7 +83,7 @@ namespace Market
             lblTotal.Text = "R$ 0,00";
 
             MessageBox.Show("Venda concluída", "Nova Venda",
-                                           MessageBoxButtons.OK, MessageBoxIcon.Exclamation);
+                                           MessageBoxButtons.OK, MessageBoxIcon.Information);
         }
 
         private void dgvItem_CellClick(object sender, DataGridViewCellEventArgs e)
@@ -103,7 +103,7 @@ namespace Market
                 calcular();
                 txtAlteracao.Clear();
 
-                MessageBox.Show("Quantidade foi alterada com sucesso");
+                MessageBox.Show("Quantidade foi alterada com sucesso!");
             }
         }
 
@@ -113,6 +113,5 @@ namespace Market
 
             lblTotal.Text = "R$ 0,00";
         }
-
     }
 }

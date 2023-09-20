@@ -1,0 +1,21 @@
+D:\2º ANO - ETEC\Market\Market\Market\bin\Debug\Market.exe.config
+D:\2º ANO - ETEC\Market\Market\Market\bin\Debug\Market.exe
+D:\2º ANO - ETEC\Market\Market\Market\bin\Debug\Market.pdb
+D:\2º ANO - ETEC\Market\Market\Market\obj\Debug\Market.csproj.AssemblyReference.cache
+D:\2º ANO - ETEC\Market\Market\Market\obj\Debug\Market.csproj.SuggestedBindingRedirects.cache
+D:\2º ANO - ETEC\Market\Market\Market\obj\Debug\Market.Form1.resources
+D:\2º ANO - ETEC\Market\Market\Market\obj\Debug\Market.Properties.Resources.resources
+D:\2º ANO - ETEC\Market\Market\Market\obj\Debug\Market.csproj.GenerateResource.cache
+D:\2º ANO - ETEC\Market\Market\Market\obj\Debug\Market.csproj.CoreCompileInputs.cache
+D:\2º ANO - ETEC\Market\Market\Market\obj\Debug\Market.exe
+D:\2º ANO - ETEC\Market\Market\Market\obj\Debug\Market.pdb
+C:\Users\Juninho\Desktop\Market\Market\bin\Debug\Market.exe.config
+C:\Users\Juninho\Desktop\Market\Market\bin\Debug\Market.exe
+C:\Users\Juninho\Desktop\Market\Market\bin\Debug\Market.pdb
+C:\Users\Juninho\Desktop\Market\Market\obj\Debug\Market.csproj.AssemblyReference.cache
+C:\Users\Juninho\Desktop\Market\Market\obj\Debug\Market.Form1.resources
+C:\Users\Juninho\Desktop\Market\Market\obj\Debug\Market.Properties.Resources.resources
+C:\Users\Juninho\Desktop\Market\Market\obj\Debug\Market.csproj.GenerateResource.cache
+C:\Users\Juninho\Desktop\Market\Market\obj\Debug\Market.csproj.CoreCompileInputs.cache
+C:\Users\Juninho\Desktop\Market\Market\obj\Debug\Market.exe
+C:\Users\Juninho\Desktop\Market\Market\obj\Debug\Market.pdb
